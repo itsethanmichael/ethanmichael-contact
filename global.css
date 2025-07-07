@@ -1,11 +1,17 @@
 body {
+  
+  background-color: black;
+  color: white;
+  
+}
+
+#bodyDiv {
 
   background-image: url("snow.gif");
   background-repeat: no-repeat;
   background-size: 99vw 99vh;
-  
-  background-color: black;
-  color: white;
+
+  opacity: 0.5;
   
 }
 
