@@ -9,8 +9,25 @@ body {
   
 }
 
+#bodyBackDiv {
+
+  position: absolute;
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+#headerDiv {
+
+  z-index: 2;
+  font-size: calc(12px + 2vh);
+
+}
+
 #IG {
 
+  z-index: 2;
   width:calc(30px + 5vw);
 
 }
@@ -22,6 +39,7 @@ body {
 
 #YT {
 
+  z-index: 2;
   width:calc(30px + 5vw);
   
 }
