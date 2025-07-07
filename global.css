@@ -21,6 +21,7 @@ body {
 #headerDiv {
 
   z-index: 2;
+  height: 33.33%;
   font-size: calc(12px + 2vh);
 
 }
