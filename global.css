@@ -1,0 +1,21 @@
+#IG {
+
+  width:calc(30px + 5vw);
+
+}
+#IG:hover {
+
+  cursor: pointer;
+
+}
+
+#YT {
+
+  width:calc(30px + 5vw);
+  
+}
+#YT:hover {
+
+  cursor: pointer;
+
+}
