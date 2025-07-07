@@ -62,6 +62,12 @@ body {
 
 }
 
+#emailDiv {
+
+  z-index: 2;
+
+}
+
 #IG {
 
   z-index: 2;
