@@ -20,9 +20,20 @@ body {
 
 #headerDiv {
 
+  display: flex;
+  flex-direction: column;
   z-index: 2;
-  height: 33.33%;
+  height: 33.33vh;
   font-size: calc(12px + 2vh);
+
+}
+
+#socDiv {
+
+  display: flex;
+  flex-direction: row;
+  z-index: 2;
+  width: 100%;
 
 }
 
